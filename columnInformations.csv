@@ -1,0 +1,22 @@
+﻿Variable_Definition,Variable_Structure
+age,NUMERIC - DISCRETE
+number of contacts performed during this campaign and for this client,NUMERIC - DISCRETE
+consumer confidence index,NUMERIC - CONTINUOUS
+consumer price index ,NUMERIC - CONTINUOUS
+contact communication type,CATEGORICAL - NOMINAL 
+last contact day of the week,CATEGORICAL - NOMINAL 
+has credit in default? ,CATEGORICAL - NOMINAL 
+"last contact duration, in seconds",NUMERIC - DISCRETE
+education status,CATEGORICAL - ORDINAL
+employment variation rate ,NUMERIC - CONTINUOUS
+euribor 3 month rate ,NUMERIC - CONTINUOUS
+has housing loan?,CATEGORICAL - NOMINAL 
+type of job,CATEGORICAL - NOMINAL 
+has personal loan?,CATEGORICAL - NOMINAL 
+ marital status,CATEGORICAL - NOMINAL 
+last contact month of year ,CATEGORICAL - NOMINAL 
+number of employees,NUMERIC - DISCRETE
+number of days that passed by after the client was last contacted from a previous campaign,NUMERIC - DISCRETE
+outcome of the previous marketing campaign,CATEGORICAL - ORDINAL
+number of contacts performed before this campaign and for this client,NUMERIC - DISCRETE
+yes-no,BINARY
